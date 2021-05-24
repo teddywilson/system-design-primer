@@ -19,10 +19,9 @@
 # Table of Contents
 1. [Lectures](#lectures)
     1. [Distributed Systems at MIT with Robert Morris](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-2. [Papers](#papers)
-    1. [Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/) 
-3. [Stories](#stories)
+2. [Stories](#stories)
     1. [Scaling Infrastructure at Instagram](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s) 
-
-I'm planning to add a topics section as well, but won't commit to doing so until at least one topic is added :)
+3. [Topics](#topics)
+    1. Load Balancing
+        1. [(Google) Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/) 
 
