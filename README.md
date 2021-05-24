@@ -16,6 +16,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-yellowgreen">
 </p>
 
+NOTE: I am quite literally just getting started. Quite a bit of code laying around from the template/fork I initialized the repo with. Right now just trying to lay out basic tops that should be covered.
+
 ## Usage
 
 ```
