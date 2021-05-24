@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2000/1*UXYdhUocJfSHSdV3vRn8OQ.png" alt="Random systems design image from Google that should be replaced!" width="100">
+  <img src="https://miro.medium.com/max/2000/1*UXYdhUocJfSHSdV3vRn8OQ.png" alt="Random systems design image from Google that should be replaced!" width="200">
 </p>
 
 <h2 align="center">
