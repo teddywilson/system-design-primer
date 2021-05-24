@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  Hopefully this site will provide valuable resources for others interested in learning about scalable systems. We will start with a blank canvas and flesh it out as we go.
+  Hopefully this site will provide valuable resources for others interested in learning about scalable and distributed systems. We will start with a blank canvas and flesh it out as we go.
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
     4. [Distributed Queues](#distributed-queues)
     5. [Leader Election / Failover](#failover)
 2. [Lectures](#lectures)
-    1. [Distributed Systems @ MIT with Robert Morris](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+    1. [Distributed Systems at MIT with Robert Morris](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 4. [Papers](#papers)
     1. [Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/) 
 6. [Stories](#stories)
