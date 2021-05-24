@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  Lectures, testimonials, papers, and more relating to scalability and distributed systems.
+  Lectures, testimonials, papers, and more, relating to scalability and distributed systems.
 </p>
 
 <p align="center">
