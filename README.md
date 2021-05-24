@@ -24,4 +24,6 @@
 3. Topics
     1. Load Balancing
         1. [(Google) Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/) 
+    1. DNS
+        1. [(Stripe) The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)  
 
