@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  Hopefully this site will provide valuable resources for others interested in learning about scalable and distributed systems. We will start with a blank canvas and flesh it out as we go.
+  Lectures, testimonials, papers, and more relating to scalability and distributed systems.
 </p>
 
 <p align="center">
