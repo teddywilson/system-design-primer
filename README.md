@@ -17,34 +17,12 @@
 </p>
 
 # Table of Contents
-1. [Topics](#topics)
-    1. [DNS](#dns)
-    2. [Storage](#storage)
-    3. [Load Balancing](#load-balancing)
-    4. [Distributed Queues](#distributed-queues)
-    5. [Leader Election / Failover](#failover)
-2. [Lectures](#lectures)
+1. [Lectures](#lectures)
     1. [Distributed Systems at MIT with Robert Morris](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-4. [Papers](#papers)
+2. [Papers](#papers)
     1. [Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/) 
-6. [Stories](#stories)
+3. [Stories](#stories)
     1. [Scaling Infrastructure at Instagram](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s) 
 
-## Topics <a name="topics"></a>
-
-### DNS <a name="dns"></a>
-TODO
-
-### Storage <a name="storage"></a>
-TODO
-
-### Load Balancing <a name="load-balancing"></a>
-TODO
-
-### Distributed Queues <a name="distributed-queues"></a>
-TODO
-
-### Leader Election / Failover <a name="failover"></a>
-TODO
-
+I'm planning to add a topics section as well, but won't commit to doing so until at least one topic is added :)
 
