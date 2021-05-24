@@ -17,11 +17,11 @@
 </p>
 
 # Table of Contents
-1. [Lectures](#lectures)
+1. Lectures
     1. [Distributed Systems at MIT with Robert Morris](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-2. [Stories](#stories)
+2. Stories
     1. [Scaling Infrastructure at Instagram](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s) 
-3. [Topics](#topics)
+3. Topics
     1. Load Balancing
         1. [(Google) Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/) 
 
