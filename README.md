@@ -18,9 +18,3 @@
 
 NOTE: I am quite literally just getting started. Quite a bit of code laying around from the template/fork I initialized the repo with. Right now just trying to lay out basic tops that should be covered.
 
-## Usage
-
-```
-yarn install
-gatsby develop
-```
