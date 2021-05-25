@@ -17,9 +17,9 @@
 </p>
 
 # Table of Contents
-1. Lectures (general)
+1. Lectures
     1. [Distributed Systems at MIT with Robert Morris](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-2. Stories (general)
+2. Architecture Overviews
     1. [Scaling Infrastructure at Instagram (2017)](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s)
     2. [How Slack Works (2017)](https://www.youtube.com/watch?v=WE9c9AZe-DY)
     3. [Netflix: What Happens When You Press Play? (2017)](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
