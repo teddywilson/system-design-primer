@@ -27,7 +27,7 @@
         1. [Netflix: What Happens When You Press Play? (2017)](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
     3. Slack
         1. [How Slack Works (2017)](https://www.youtube.com/watch?v=WE9c9AZe-DY)
-        2. [Scaling Slack - The Good, the Unexpected, and the Road Ahead (2018)](The Good, the Unexpected, and the Road Ahead)  
+        2. [Scaling Slack - The Good, the Unexpected, and the Road Ahead (2018)](https://www.youtube.com/watch?v=_M-oHxknfnI)  
 3. Topics
     1. Load Balancing
         1. [(Google) Maglev: A Fast and Reliable Load Balancer (2016)](https://research.google/pubs/pub44824/)
