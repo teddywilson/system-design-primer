@@ -19,10 +19,15 @@
 # Resources
 1. Lectures
     1. [Distributed Systems at MIT with Robert Morris](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-2. Architecture Overviews
-    1. [Scaling Infrastructure at Instagram (2017)](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s)
-    2. [How Slack Works (2017)](https://www.youtube.com/watch?v=WE9c9AZe-DY)
-    3. [Netflix: What Happens When You Press Play? (2017)](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
+2. Architecture Overviews and Talks
+    1. Facebook 
+        1. [Scaling Infrastructure at Instagram (2017)](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s)
+        2. [Scaling Facebook Live Videos to a Billion Users (2018)](https://www.youtube.com/watch?v=IO4teCbHvZw&t=963s)
+    2. Netflix 
+        1. [Netflix: What Happens When You Press Play? (2017)](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
+    3. Slack
+        1. [How Slack Works (2017)](https://www.youtube.com/watch?v=WE9c9AZe-DY)
+        2. [Scaling Slack - The Good, the Unexpected, and the Road Ahead (2018)](The Good, the Unexpected, and the Road Ahead)  
 3. Topics
     1. Load Balancing
         1. [(Google) Maglev: A Fast and Reliable Load Balancer (2016)](https://research.google/pubs/pub44824/)
