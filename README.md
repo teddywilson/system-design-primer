@@ -36,7 +36,10 @@
             1. [Networking Zine - Julia Evans](https://jvns.ca/networking-zine.pdf)
         2. DNS
             1. [(Stripe) The secret life of DNS packets: investigating complex networks (2019)](https://stripe.com/blog/secret-life-of-dns)
-    5. Distributed File Systems
+    3. Distributed File Systems
         1. [The Google File System (GFS) (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+    4. Storage
+        1. Sharding
+            1. [Vitess - MySQL sharding](https://vitess.io/)   
 4. Misc.
     1. [Wizard Zines](https://wizardzines.com/)   
