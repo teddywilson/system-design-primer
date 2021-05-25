@@ -25,7 +25,8 @@
     3. [Netflix: What Happens When You Press Play? (2017)](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 3. Topics
     1. Load Balancing
-        1. [(Google) Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/) 
+        1. [(Google) Maglev: A Fast and Reliable Load Balancer (2016)](https://research.google/pubs/pub44824/) 
     2. DNS
-        1. [(Stripe) The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)  
-
+        1. [(Stripe) The secret life of DNS packets: investigating complex networksi (2019)](https://stripe.com/blog/secret-life-of-dns)  
+    3. Distributed File Systems
+        1. [The Google File System (GFS) (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
