@@ -22,6 +22,7 @@
 2. Stories (general)
     1. [Scaling Infrastructure at Instagram (2017)](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s)
     2. [How Slack Works (2017)](https://www.youtube.com/watch?v=WE9c9AZe-DY)
+    3. [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 3. Topics
     1. Load Balancing
         1. [(Google) Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/) 
