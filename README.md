@@ -21,23 +21,25 @@
     1. [Distributed Systems at MIT with Robert Morris](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 2. Architecture Overviews and Talks
     1. Facebook 
-        1. [Scaling Infrastructure at Instagram (2017)](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s)
-        2. [Scaling Facebook Live Videos to a Billion Users (2018)](https://www.youtube.com/watch?v=IO4teCbHvZw&t=963s)
+        1. [(2017) Scaling Infrastructure at Instagram](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s)
+        2. [(2018) Scaling Facebook Live Videos to a Billion Users](https://www.youtube.com/watch?v=IO4teCbHvZw&t=963s)
     2. Netflix 
-        1. [Netflix: What Happens When You Press Play? (2017)](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
-    3. Slack
-        1. [How Slack Works (2017)](https://www.youtube.com/watch?v=WE9c9AZe-DY)
-        2. [Scaling Slack - The Good, the Unexpected, and the Road Ahead (2018)](https://www.youtube.com/watch?v=_M-oHxknfnI)  
+        1. [(2017) Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
+    3. Reddit
+        1. [(2017) The Evolution of Reddit.com's Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4)  
+    4. Slack
+        1. [(2017) How Slack Works](https://www.youtube.com/watch?v=WE9c9AZe-DY)
+        2. [(2018) Scaling Slack - The Good, the Unexpected, and the Road Ahead](https://www.youtube.com/watch?v=_M-oHxknfnI)  
 3. Topics
     1. Load Balancing
-        1. [(Google) Maglev: A Fast and Reliable Load Balancer (2016)](https://research.google/pubs/pub44824/)
+        1. [(Google, 2016) Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/)
     2. Networking
         1. General
             1. [Networking Zine - Julia Evans](https://jvns.ca/networking-zine.pdf)
         2. DNS
-            1. [(Stripe) The secret life of DNS packets: investigating complex networks (2019)](https://stripe.com/blog/secret-life-of-dns)
+            1. [(Stripe, 2019) The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
     3. Distributed File Systems
-        1. [The Google File System (GFS) (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+        1. [(Google, 2003) The Google File System (GFS)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
     4. Storage
         1. Sharding
             1. [Vitess - MySQL sharding](https://vitess.io/)   
