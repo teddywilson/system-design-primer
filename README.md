@@ -33,16 +33,18 @@
         1. [(2017) How Slack Works](https://www.youtube.com/watch?v=WE9c9AZe-DY)
         2. [(2018) Scaling Slack - The Good, the Unexpected, and the Road Ahead](https://www.youtube.com/watch?v=_M-oHxknfnI)  
 3. Topics
-    1. Load Balancing
+    1. Distributed File Systems
+        1. [(Google, 2003) The Google File System (GFS)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+    2. Distributed Queues (Pub/Sub)
+        1. [(2020) Kafka: A Modern Distributed System](https://www.youtube.com/watch?v=Ea3aoACnbEk)  
+    3. Load Balancing
         1. [(Google, 2016) Maglev: A Fast and Reliable Load Balancer](https://research.google/pubs/pub44824/)
-    2. Networking
+    4. Networking
         1. General
             1. [Networking Zine - Julia Evans](https://jvns.ca/networking-zine.pdf)
         2. DNS
             1. [(Stripe, 2019) The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
-    3. Distributed File Systems
-        1. [(Google, 2003) The Google File System (GFS)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-    4. Storage
+    5. Storage
         1. Sharding
             1. [Vitess - MySQL sharding](https://vitess.io/)   
 4. Misc.
