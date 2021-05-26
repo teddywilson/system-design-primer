@@ -23,6 +23,7 @@
     1. Facebook 
         1. [(2017) Scaling Infrastructure at Instagram](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=2182s)
         2. [(2018) Scaling Facebook Live Videos to a Billion Users](https://www.youtube.com/watch?v=IO4teCbHvZw&t=963s)
+        3. [(2020) Streaming a Million Likes/Second: Real-Time interactions on Live Video](https://www.youtube.com/watch?v=yqc3PPmHvrA)
     2. Netflix 
         1. [(2017) Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
     3. Reddit
